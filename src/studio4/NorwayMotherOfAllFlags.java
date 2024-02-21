@@ -56,6 +56,10 @@ public class NorwayMotherOfAllFlags {
 	public static void finland() {
 		
 		// TODO
+		StdDraw.setXscale(6, 12);
+		StdDraw.setYscale(6, 10);
+		mother();
+		
 	}
 
 	public static void main(String[] args) {
